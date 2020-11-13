@@ -1,2 +1,2 @@
 Keras==2.2.2
-tensorflow==1.10.0
+tensorflow==2.3.1
